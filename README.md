@@ -1,5 +1,23 @@
 # MODLIST
 
+* **NEW**
+	* **NEW/CHANGED RECIPES/ITEMS/BLOCKS/STRUCTURES/ENTITIES**
+		* [Sophisticated Storage](https://modrinth.com/mod/sophisticated-storage) by [P3pp3rF1y](https://modrinth.com/user/P3pp3rF1y)
+		* [Sophisticated Storage Create Integration](https://modrinth.com/mod/sophisticated-storage-create-integration) by [P3pp3rF1y](https://modrinth.com/user/P3pp3rF1y)
+		* [Sophisticated Backpacks Create Integration](https://modrinth.com/mod/sophisticated-backpacks-create-integration) by [P3pp3rF1y](https://modrinth.com/user/P3pp3rF1y)
+		* [Create: Liquid Fuel](https://modrinth.com/mod/create-liquid-fuel) by [RuochenFu21](https://modrinth.com/user/RuochenFu21)
+		* [Create Wells](https://modrinth.com/mod/create-wells) by [TheTechnicBoy](https://modrinth.com/user/TheTechnicBoy)
+		* [Create: Power Loader](https://modrinth.com/mod/create-power-loader) by [Lysine](https://modrinth.com/user/Lysine)
+		* [Create Encased](https://modrinth.com/mod/create-encased) by [iglee42](https://modrinth.com/user/iglee42)
+		* [Create: Framed](https://modrinth.com/mod/create-framed) by [DakotaPrideModding](https://modrinth.com/user/DakotaPrideModding)
+		* [Create: Oxidized](https://modrinth.com/mod/create_oxidized) by [sieyva](https://modrinth.com/user/sieyva)
+		* [My Nether's Delight](https://modrinth.com/mod/my-nethers-delight) by [SoyTutta](https://modrinth.com/user/SoyTutta)
+	* **QUALITY OF LIFE**
+		* [Magnum Torch](https://modrinth.com/mod/magnum-torch) by [Fuzs](https://modrinth.com/user/Fuzs)
+		* [Veinminer](https://modrinth.com/mod/sgtveinminer) by [SGTSambam](https://modrinth.com/user/SGTSambam)
+	* **SERVER CONFIG**
+	* **LIBRARY**
+		* [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) by [Fuzs](https://modrinth.com/user/Fuzs)
 * **COBBLEMON**
 	* **MODS**
 		* **NEW/CHANGED RECIPES/ITEMS/BLOCKS/STRUCTURES/MONS**
